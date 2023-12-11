@@ -36,7 +36,7 @@ The model has been implemented using object-oriented programming principles, inh
    
 2. **Google Cartoon Dataset:** This dataset consists of cartoon images from Google, offering a distinct and artistic style for comparison and transformation.
 
-### Training
+### Training (coming soon)
 
 The training process, including the final results, is documented in the provided Jupyter notebook. The notebook serves as a comprehensive guide, detailing the training steps and showcasing the obtained results.
 
