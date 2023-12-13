@@ -16,11 +16,11 @@ Hello, I'm Neiko, a junior data scientist with a deep passion for exploring and 
 ## Project 2: Sales Analysis on Power BI
 This project is a demonstration of my Power BI proficiency, highlighting various aspects of my skills in data analysis and visualization. The report features a well-structured data model that I meticulously built. Within, you'll encounter diverse measurements, demonstrating my skills in using DAX (Data Analysis Expressions). The report also showcases my storytelling ability, weaving insights seamlessly throughout the analysis. Despite the simplicity of the dashboard, it serves as a powerful example of my capabilities with this tool, offering a glimpse into the depth and breadth of my Power BI skills. The data for this project was sourced from [LearnDAX](https://www.learndax.com/power-bi-sample-data-for-beginners-to-download/), a website dedicated to providing sample data for beginners in Power BI.
 
-## Project 3: CycleGAN Face to Cartoon Training
+## Project 3: GAN Face to Cartoon Training
 
 ### Project Overview
 
-In this project, the goal is to construct a CycleGAN architecture from scratch using PyTorch. The training procedure involves utilizing two distinct style datasets: the Flickr Faces dataset and the Google Cartoon dataset.
+In this project, the goal is to construct a cycleGAN architecture from scratch using PyTorch. The training procedure involves utilizing two distinct style datasets: the Flickr Faces dataset and the Google Cartoon dataset.
 
 #### Objective
 
