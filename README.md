@@ -39,7 +39,7 @@ The model has been implemented using object-oriented programming principles, inh
 ### Training 
 
 The training process, including the final results, is documented in on a kaggle notebook. The notebook serves as a comprehensive guide, detailing the training steps and showcasing the obtained results.
-You can see the results [here](https://www.kaggle.com/code/neikodamoi/notebookd1f3daa850)
+You can see the results [here]([https://www.kaggle.com/code/neikodamoi/notebookd1f3daa850](https://www.kaggle.com/neikodamoi/cyclegan-face-cartoon)
 
 ### Note
 
