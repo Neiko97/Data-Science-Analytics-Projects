@@ -45,3 +45,29 @@ You can see the results [here](https://colab.research.google.com/drive/1uzPu2HOG
 
 Feel free to explore the notebook for insights into the model's architecture, training configurations, and visual outcomes of the face-to-cartoon transformation process.
 
+## Project 4: Retail Sales Prediction with Time Series Analysis
+
+### Project Overview
+
+In this dynamic time series project, the aim is to predict sales for an American retail store by leveraging historical sales data obtained from Walmart. The project unfolds with an initial exploratory analysis conducted on PowerBI, offering a comprehensive view of the data and insights into the unique situations across 45 different stores.
+
+#### Objective
+
+The primary objective of this project is to employ machine learning and deep learning techniques, specifically the Random Forest Regressor, XGBoost and LSTM from the scikit-learn, xgboost and tensorflow/keras libraries, to accurately forecast future sales. The predictive models are designed to enhance operational decision-making for the retail store.
+
+### Implementation Details
+
+The ML/DL models are implemented using the scikit-learn, xgboost and tensorflow/keras libraries, showcasing a structured and well-documented approach.
+
+### Data Sources
+
+The project utilizes historical sales data from Walmart found on [Kaggle](https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast) , providing a robust foundation for time series analysis. The dataset captures the nuances of sales patterns across various stores, contributing to the accuracy of the predictive models.
+
+### Training
+
+The training process involves the application of machine learning and deep learning algorithms, specifically the Random Forest Regressor, XGBoost and LSTM, on the historical sales data. The results and insights obtained from the trained models contribute to informed decision-making for future sales predictions.
+
+### Presentation
+
+The finalized data will be stored on a dedicated database server, enabling the final model to autonomously generate predictions. To enhance accessibility and decision-making, the project's results will be visually presented on a PowerBI dashboard, providing stakeholders with a user-friendly interface for actionable insights.
+
