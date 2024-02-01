@@ -43,7 +43,7 @@ You can see the results [here](https://colab.research.google.com/drive/1uzPu2HOG
 
 ### Note
 
-Feel free to explore the notebook for insights into the model's architecture, training configurations, and visual outcomes of the face-to-cartoon transformation process.
+Currently, the project is temporarily on hold due to the unavailability of necessary training materials. Unfortunately, Colab does not offer a paid subscription plan in Luxembourg, and opting for a cloud solution appears to be too expensive. Once I secure the appropriate materials, I will proceed with the continuation of the training process.
 
 ## Project 4: Retail Sales Prediction with Time Series Analysis
 
@@ -71,3 +71,5 @@ The training process involves the application of machine learning and deep learn
 
 The finalized data will be stored on a dedicated database server, enabling the final model to autonomously generate predictions. To enhance accessibility and decision-making, the project's results will be visually presented on a PowerBI dashboard, providing stakeholders with a user-friendly interface for actionable insights.
 
+### Note
+Intermediate results are available on my colab notebook [here](https://colab.research.google.com/drive/1UL3iTb08Gz4ax5vymlD7VeSqtWqoI8E2?usp=sharing).
