@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hello, I'm Neiko, a junior data scientist with a deep passion for exploring and evolving in the dynamic domain of data science. Despite the challenges of feeling like an imposter in this field, I find joy and excitement in continuously learning and applying new techniques. Building this portfolio is not only a fun and passionate endeavor for me but also a strategic step towards personal growth. Through this platform, I aim to showcase my skills, contributing to my evolution in the field and opening doors to exciting opportunities in the future.
+Hello, I'm Neiko, a junior data scientist with a deep passion for exploring and evolving in the dynamic domain of data science. Despite the challenges of this field, I find joy and excitement in continuously learning and applying new techniques. Building this portfolio is not only a fun and passionate endeavor for me but also a strategic step towards personal growth. Through this platform, I aim to showcase my skills, contributing to my evolution in the field and opening doors to exciting opportunities in the future.
 
 ## Project 1: Predict Horse Health Outcome
 
